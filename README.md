@@ -11,4 +11,8 @@ A la carpeta **source** hi trobareu el codi generat per analitzar les dades en f
 
 [No he pogut pujar al github el dataset d'alumnat. Caldria descarregar-lo al primer link]
 
+## Visualitzacions
+
+Flourish: https://public.flourish.studio/story/1961624/
+
 
