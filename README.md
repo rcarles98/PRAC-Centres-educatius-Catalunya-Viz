@@ -7,7 +7,7 @@ https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ense
 
 https://analisi.transparenciacatalunya.cat/Educaci-/Directori-de-centres-docents-anual-Base-2020/kvmv-ahh4
 
-A la carpeta **source** hi trobareu el codi generat per analitzar les dades en format *html* i *ipynb*.
+A la carpeta **source** hi trobareu el codi generat per analitzar les dades en format *md*, *html* i *ipynb*.
 
 [No he pogut pujar al github el dataset d'alumnat. Caldria descarregar-lo al primer link]
 
