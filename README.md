@@ -1,7 +1,7 @@
 # PRAC1. Centres educatius a Catalunya
 
 ## Descripció
-Aquesta pràctica s'ha realitzat en el context de l'assignatura *Visualització de dades* del Màster en Ciència de Dades de la Universitat Oberta de Catalunya. Ha consistit en aplicar tècniques de visualització amb Flourish sobre el dataset train.csv, extret de a Dades obertes de Catalunya:
+Aquesta pràctica s'ha realitzat en el context de l'assignatura *Visualització de dades* del Màster en Ciència de Dades de la Universitat Oberta de Catalunya. Ha consistit en aplicar tècniques de visualització amb Flourish sobre els datasets  extrets de Dades obertes de Catalunya:
 
 https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg
 
